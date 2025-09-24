@@ -1,0 +1,27 @@
+Game session:
+France
+Belarus
+Moldova
+Total countries entered: 3
+---------------------
+Game session:
+Moldova
+Total countries entered: 1
+---------------------
+Game session:
+Moldova
+Total countries entered: 1
+---------------------
+Game session:
+Moldova
+Total countries entered: 1
+---------------------
+Game session:
+Romania
+Moldova
+Total countries entered: 2
+---------------------
+Game session:
+Romania
+Total countries entered: 1
+---------------------

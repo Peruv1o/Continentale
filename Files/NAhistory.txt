@@ -1,0 +1,7 @@
+Game session:
+Canada
+Total countries entered: 1
+---------------------
+Game session:
+Total countries entered: 0
+---------------------
